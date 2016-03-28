@@ -20,6 +20,8 @@ namespace Part1
             Console.ReadKey();
         }
 
+
+
         static int znajdzdruga(int a, int b, int c)
         {
             if (a > b)
@@ -61,8 +63,6 @@ namespace Part1
                 }
             }
         }
-
-
 
         static int znajdzNajwieksza(int a, int b, int c)
         {
